@@ -1,0 +1,13 @@
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\bin\Debug\netcoreapp3.1\Main prog.exe
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\bin\Debug\netcoreapp3.1\Main prog.deps.json
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\bin\Debug\netcoreapp3.1\Main prog.runtimeconfig.json
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\bin\Debug\netcoreapp3.1\Main prog.runtimeconfig.dev.json
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\bin\Debug\netcoreapp3.1\Main prog.dll
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\bin\Debug\netcoreapp3.1\Main prog.pdb
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\obj\Debug\netcoreapp3.1\Main prog.csprojAssemblyReference.cache
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\obj\Debug\netcoreapp3.1\Main prog.AssemblyInfoInputs.cache
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\obj\Debug\netcoreapp3.1\Main prog.AssemblyInfo.cs
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\obj\Debug\netcoreapp3.1\Main prog.csproj.CoreCompileInputs.cache
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\obj\Debug\netcoreapp3.1\Main prog.dll
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\obj\Debug\netcoreapp3.1\Main prog.pdb
+C:\Users\andreas.larsson15\Documents\Prov Programmering 2020-10-14\Main prog\obj\Debug\netcoreapp3.1\Main prog.genruntimeconfig.cache
